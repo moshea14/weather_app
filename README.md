@@ -6,6 +6,12 @@ This weather app allows a user to search a city name and see the current weather
 
 
 ## Features
+- Search for a city name
+- Display current weather data
+- Display weather data in a user-friendly format
+- Use OpenWeatherMap API to fetch weather data
+- Handle errors and exceptions
+- Use a responsive design to work on different devices and screen sizes
 
 ## Installation
 
